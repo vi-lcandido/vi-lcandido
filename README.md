@@ -3,9 +3,9 @@
   
   <a href="https://github.com/vi-lcandido"><img align='right' alt="Vitoria-Avatar" height="130em" src="https://media.giphy.com/media/K3kUpFhGsRhw93MQdq/giphy.gif"/></a>
 <div align='start'>
-- 🤝 I'm looking for my first opportunity in technology area and looking foward to  bring great work to the team.<br>
-- 🔭 I'm currently studdying HTML, CSS, React.js, JS Vanilla, Typescript, NodeJs and OOP.<br>
-- 🌱 I’m currently in a program called OiDevs to become a Frontend developer.<br>
+• 🤝 I'm looking for my first opportunity in technology area and looking foward to  bring great work to the team.<br>
+• 🔭 I'm currently studdying HTML, CSS, React.js, JS Vanilla, Typescript, NodeJs and OOP.<br>
+• 🌱 I’m currently in a program called OiDevs to become a Frontend developer.<br>
  </div>
  
  <div align="center">
