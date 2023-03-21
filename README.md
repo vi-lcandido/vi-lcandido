@@ -1,9 +1,9 @@
 <h2>Hi there, I'm Vitória</h2>
-<p>💻 I'm studying to be a web developer looking for opportunities and collabaration in projects related to <b>FrontEnd</b> development.<p>
+<p>💻 I'm studying to be a web developer looking for opportunities and collaboration in projects related to <b>FrontEnd</b> development.<p>
   
   <a href="https://github.com/vi-lcandido"><img align='right' alt="Vitoria-Avatar" height="130em" src="https://media.giphy.com/media/K3kUpFhGsRhw93MQdq/giphy.gif"/></a>
 <div align='start'>
-• 🤝 I'm looking for my first opportunity in technology area and looking foward to  bring great work to the team.<br>
+• 🤝 I'm looking for my first opportunity in the technology area and looking forward to bringing great work to the team.<br>
 • 🔭 I'm studdying HTML, CSS, React.js, Typescript, NodeJs and OOP.<br>
 • 🌱 I’m currently in a program called OiDevs to become a Frontend developer.<br>
  </div>
