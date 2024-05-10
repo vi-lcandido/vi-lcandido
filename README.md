@@ -4,7 +4,7 @@
   <a href="https://github.com/vi-lcandido"><img align='right' alt="Vitoria-Avatar" height="130em" src="https://media.giphy.com/media/K3kUpFhGsRhw93MQdq/giphy.gif"/></a>
 <div align='start'>
 • 🤝 I'm looking for opportunities to contribute in technology.<br>
-• 🔭 I'm studdying HTML, CSS, React.js, Typescript, NodeJs and OOP.<br>
+• 🔭 I'm studdying Next.js, Typescript, NodeJs.<br>
 • 🌱 I’m currently a assistent developer at Oi.<br>
  </div>
  
