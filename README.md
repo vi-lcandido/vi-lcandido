@@ -5,7 +5,7 @@
 <div align='start'>
 • 🤝 I'm looking for opportunities to contribute in technology.<br>
 • 🔭 I'm studdying Next.js, Typescript, NodeJs.<br>
-• 🌱 I’m currently a assistent developer at Oi.<br>
+• 🌱 I’m currently a assistent developer at Oi S.A<br>
  </div>
  
  <div align="center">
