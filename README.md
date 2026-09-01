@@ -5,15 +5,8 @@
 <div align='start'>
 • 🤝 I'm looking for opportunities to contribute in technology.<br>
 • 🔭 I'm studdying Next.js, Typescript, NodeJs.<br>
-• 🌱 I’m currently a assistent developer at Oi S.A<br>
+• 🌱 I’m currently a Fullstack developer at Oi S.A<br>
  </div>
- 
- <div align="center">
-  <br>
-  <a href="https://github.com/vi-lcandido">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vi-lcandido&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vi-lcandido&layout=compact&langs_count=7&theme=omni"/>
-</div>
 
 <div style="display: inline_block"><br>
    <h4>👩‍💻Hard Skills<h4>
